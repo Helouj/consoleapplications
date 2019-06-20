@@ -1,0 +1,9 @@
+C:\ElevenFiftyProjects\DotNetProjects\KomodoClaims\ClaimsRepo\bin\Debug\netstandard2.0\ClaimsRepo.deps.json
+C:\ElevenFiftyProjects\DotNetProjects\KomodoClaims\ClaimsRepo\bin\Debug\netstandard2.0\ClaimsRepo.dll
+C:\ElevenFiftyProjects\DotNetProjects\KomodoClaims\ClaimsRepo\bin\Debug\netstandard2.0\ClaimsRepo.pdb
+C:\ElevenFiftyProjects\DotNetProjects\KomodoClaims\ClaimsRepo\obj\Debug\netstandard2.0\ClaimsRepo.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\KomodoClaims\ClaimsRepo\obj\Debug\netstandard2.0\ClaimsRepo.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\KomodoClaims\ClaimsRepo\obj\Debug\netstandard2.0\ClaimsRepo.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\KomodoClaims\ClaimsRepo\obj\Debug\netstandard2.0\ClaimsRepo.AssemblyInfo.cs
+C:\ElevenFiftyProjects\DotNetProjects\KomodoClaims\ClaimsRepo\obj\Debug\netstandard2.0\ClaimsRepo.dll
+C:\ElevenFiftyProjects\DotNetProjects\KomodoClaims\ClaimsRepo\obj\Debug\netstandard2.0\ClaimsRepo.pdb

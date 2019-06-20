@@ -1,0 +1,16 @@
+C:\ElevenFiftyProjects\DotNetProjects\KomodoClaims\ClaimsTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\DotNetProjects\KomodoClaims\ClaimsTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\DotNetProjects\KomodoClaims\ClaimsTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\DotNetProjects\KomodoClaims\ClaimsTesting\bin\Debug\ClaimsTesting.dll
+C:\ElevenFiftyProjects\DotNetProjects\KomodoClaims\ClaimsTesting\bin\Debug\ClaimsTesting.pdb
+C:\ElevenFiftyProjects\DotNetProjects\KomodoClaims\ClaimsTesting\bin\Debug\ClaimsRepo.dll
+C:\ElevenFiftyProjects\DotNetProjects\KomodoClaims\ClaimsTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\DotNetProjects\KomodoClaims\ClaimsTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\DotNetProjects\KomodoClaims\ClaimsTesting\bin\Debug\ClaimsRepo.pdb
+C:\ElevenFiftyProjects\DotNetProjects\KomodoClaims\ClaimsTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\DotNetProjects\KomodoClaims\ClaimsTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\DotNetProjects\KomodoClaims\ClaimsTesting\obj\Debug\ClaimsTesting.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\KomodoClaims\ClaimsTesting\obj\Debug\ClaimsTesting.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\KomodoClaims\ClaimsTesting\obj\Debug\ClaimsTesting.csproj.CopyComplete
+C:\ElevenFiftyProjects\DotNetProjects\KomodoClaims\ClaimsTesting\obj\Debug\ClaimsTesting.dll
+C:\ElevenFiftyProjects\DotNetProjects\KomodoClaims\ClaimsTesting\obj\Debug\ClaimsTesting.pdb

@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\ElevenFiftyProjects\\DotNetProjects\\Cafe\\Menu_main\\Menu_main.csproj": {}
+  },
+  "projects": {
+    "C:\\ElevenFiftyProjects\\DotNetProjects\\Cafe\\Menu_main\\Menu_main.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ElevenFiftyProjects\\DotNetProjects\\Cafe\\Menu_main\\Menu_main.csproj",
+        "projectName": "Menu_main",
+        "projectPath": "C:\\ElevenFiftyProjects\\DotNetProjects\\Cafe\\Menu_main\\Menu_main.csproj",
+        "packagesPath": "C:\\Users\\Jacob Helou\\.nuget\\packages\\",
+        "outputPath": "C:\\ElevenFiftyProjects\\DotNetProjects\\Cafe\\Menu_main\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jacob Helou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\ElevenFiftyProjects\\DotNetProjects\\Cafe\\Menu_Repository_project\\Menu_Repository_project.csproj": {
+                "projectPath": "C:\\ElevenFiftyProjects\\DotNetProjects\\Cafe\\Menu_Repository_project\\Menu_Repository_project.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\ElevenFiftyProjects\\DotNetProjects\\Cafe\\Menu_Repository_project\\Menu_Repository_project.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ElevenFiftyProjects\\DotNetProjects\\Cafe\\Menu_Repository_project\\Menu_Repository_project.csproj",
+        "projectName": "Menu_Repository_project",
+        "projectPath": "C:\\ElevenFiftyProjects\\DotNetProjects\\Cafe\\Menu_Repository_project\\Menu_Repository_project.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

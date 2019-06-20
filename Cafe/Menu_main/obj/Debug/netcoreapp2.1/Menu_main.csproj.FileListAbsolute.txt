@@ -1,0 +1,14 @@
+C:\ElevenFiftyProjects\DotNetProjects\Cafe\Menu_main\bin\Debug\netcoreapp2.1\Menu_main.deps.json
+C:\ElevenFiftyProjects\DotNetProjects\Cafe\Menu_main\bin\Debug\netcoreapp2.1\Menu_main.runtimeconfig.json
+C:\ElevenFiftyProjects\DotNetProjects\Cafe\Menu_main\bin\Debug\netcoreapp2.1\Menu_main.runtimeconfig.dev.json
+C:\ElevenFiftyProjects\DotNetProjects\Cafe\Menu_main\bin\Debug\netcoreapp2.1\Menu_main.dll
+C:\ElevenFiftyProjects\DotNetProjects\Cafe\Menu_main\bin\Debug\netcoreapp2.1\Menu_main.pdb
+C:\ElevenFiftyProjects\DotNetProjects\Cafe\Menu_main\bin\Debug\netcoreapp2.1\Menu_Repository_project.dll
+C:\ElevenFiftyProjects\DotNetProjects\Cafe\Menu_main\bin\Debug\netcoreapp2.1\Menu_Repository_project.pdb
+C:\ElevenFiftyProjects\DotNetProjects\Cafe\Menu_main\obj\Debug\netcoreapp2.1\Menu_main.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\Cafe\Menu_main\obj\Debug\netcoreapp2.1\Menu_main.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\Cafe\Menu_main\obj\Debug\netcoreapp2.1\Menu_main.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\Cafe\Menu_main\obj\Debug\netcoreapp2.1\Menu_main.AssemblyInfo.cs
+C:\ElevenFiftyProjects\DotNetProjects\Cafe\Menu_main\obj\Debug\netcoreapp2.1\Menu_main.csproj.CopyComplete
+C:\ElevenFiftyProjects\DotNetProjects\Cafe\Menu_main\obj\Debug\netcoreapp2.1\Menu_main.dll
+C:\ElevenFiftyProjects\DotNetProjects\Cafe\Menu_main\obj\Debug\netcoreapp2.1\Menu_main.pdb

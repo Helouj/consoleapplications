@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Menu_main/1.0.0": {
+        "dependencies": {
+          "Menu_Repository_project": "1.0.0"
+        },
+        "runtime": {
+          "Menu_main.dll": {}
+        }
+      },
+      "Menu_Repository_project/1.0.0": {
+        "runtime": {
+          "Menu_Repository_project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Menu_main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Menu_Repository_project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

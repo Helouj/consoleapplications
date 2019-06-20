@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\DotNetProjects\KomodoClaims\Claim_Console\bin\Debug\Claim_Console.exe.config
+C:\ElevenFiftyProjects\DotNetProjects\KomodoClaims\Claim_Console\bin\Debug\Claim_Console.exe
+C:\ElevenFiftyProjects\DotNetProjects\KomodoClaims\Claim_Console\bin\Debug\Claim_Console.pdb
+C:\ElevenFiftyProjects\DotNetProjects\KomodoClaims\Claim_Console\obj\Debug\Claim_Console.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\KomodoClaims\Claim_Console\obj\Debug\Claim_Console.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\KomodoClaims\Claim_Console\obj\Debug\Claim_Console.exe
+C:\ElevenFiftyProjects\DotNetProjects\KomodoClaims\Claim_Console\obj\Debug\Claim_Console.pdb
+C:\ElevenFiftyProjects\DotNetProjects\KomodoClaims\Claim_Console\bin\Debug\ClaimsRepo.dll
+C:\ElevenFiftyProjects\DotNetProjects\KomodoClaims\Claim_Console\bin\Debug\ClaimsRepo.pdb
+C:\ElevenFiftyProjects\DotNetProjects\KomodoClaims\Claim_Console\obj\Debug\Claim_Console.csproj.CopyComplete
